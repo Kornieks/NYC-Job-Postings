@@ -1,6 +1,6 @@
 # **Column descriptions**
 
-## **Identification and organization**
+### **Identification and organization**
 
 1. **Job ID** — unique identifier of the job posting.  
     Number of unique values: 1400\.  
@@ -11,20 +11,20 @@
 
 ## **Job title and classification**
 
-5. ## **Business Title** — public-facing job title shown in the vacancy.     Number of unique values: 1097\.
-
-6. ## **Civil Service Title** — standardized official title in the NYC civil service system.    Number of unique values: 295\.
-
-7. ## **Title Classification** — administrative classification of the title.    Unique values: 'Non-Competitive-5', 'Competitive-1', 'Exempt-4',   'Pending Classification-2', 'Labor-3'. 
-
-8. **Title Code No** — code assigned to the civil service title.  
+5. **Business Title** — public-facing job title shown in the vacancy.    
+Number of unique values: 1097\.
+6. **Civil Service Title** — standardized official title in the NYC civil service system.
+Number of unique values: 295\.
+8. **Title Classification** — administrative classification of the title.  
+Unique values: 'Non-Competitive-5', 'Competitive-1', 'Exempt-4',   'Pending Classification-2', 'Labor-3'. 
+9. **Title Code No** — code assigned to the civil service title.  
    Number of unique values: 307\.  
-9. **Level** — internal assignment or classification level for the title.  
+10. **Level** — internal assignment or classification level for the title.  
    Number of unique values: 16\.  
-10. **Career Level** — general seniority or experience level of the position.  
+11. **Career Level** — general seniority or experience level of the position.  
     Unique values: 'Student',   'Entry-Level', 'Experienced (non-manager)', 'Manager',  'Executive'.
 
-## **Job content**
+### **Job content**
 
 11. **Job Category** — category or functional area of the job.  
     Number of unique values: 98\.  
@@ -38,7 +38,7 @@
 18. **Division/Work Unit** — division, office, or work unit within the agency.  
     Number of unique values: 624\.
 
-## **Employment and salary**
+### **Employment and salary**
 
 19. **Full-Time/Part-Time indicator** — whether the position is full-time or part-time.  
 20. **Salary Range From** — lower bound of the salary range.  
@@ -46,25 +46,22 @@
 22. **Salary Frequency** — salary unit.  
     Unique values: annual, daily, hourly.
 
-## **Location**
+### **Location**
 
 23. **Work Location** — work location in text form.  
 24. **Work Location 1** — additional location field, often similar or duplicate of Work Location.  
 25. **Residency Requirement** — whether residency requirements apply.
 
-## **Dates**
+### **Dates**
 
-26. ## **Posting Date** — date when the vacancy was posted.
+26. **Posting Date** — date when the vacancy was posted.
+27. **Post Until** — closing date or deadline for the posting.
+28. **Posting Updated** — date when the posting was last updated.
+29. **Process Date** — technical processing date in the dataset.
 
-27. ## **Post Until** — closing date or deadline for the posting.
+### **Administrative**
 
-28. ## **Posting Updated** — date when the posting was last updated.
-
-29. ## **Process Date** — technical processing date in the dataset.
-
-## **Administrative**
-
-30. ## **Recruitment Contact** — contact field for recruitment purposes
+30. **Recruitment Contact** — contact field for recruitment purposes
 
 ## **Columns Removed from the Dataset**
 
