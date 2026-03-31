@@ -13,7 +13,7 @@
 
 5. **Business Title** — public-facing job title shown in the vacancy.    
 Number of unique values: 1097\.
-6. **Civil Service Title** — standardized official title in the NYC civil service system.
+6. **Civil Service Title** — standardized official title in the NYC civil service system.\
 Number of unique values: 295\.
 8. **Title Classification** — administrative classification of the title.  
 Unique values: 'Non-Competitive-5', 'Competitive-1', 'Exempt-4',   'Pending Classification-2', 'Labor-3'. 
