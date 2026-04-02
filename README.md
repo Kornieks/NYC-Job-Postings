@@ -1,15 +1,13 @@
 # NYC-Job-Postings
 
+This project analyzes NYC job postings (Jan–Mar 2026) to understand hiring patterns, salary dynamics, and the value of different skill sets.
 The dataset contains current job postings available on the City of [New York’s official jobs site](https://cityjobs.nyc.gov/).
 More information about the dataset is available through this [link](https://github.com/Kornieks/NYC-Job-Postings/blob/main/Dataset%20description.md).
 
-## [NYC Job Postings Dashboard](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarketOverview/NYCJobMarketOverview?publish=yes)
-## [Skills & Salary Analysis Dashboard ](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarket-SkillsSalaryAnalysis/NYCJobMarketSkillsSalaryAnalysis?publish=yes)
+### [NYC Job Postings Dashboard](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarketOverview/NYCJobMarketOverview?publish=yes)
+### [Skills & Salary Analysis Dashboard ](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarket-SkillsSalaryAnalysis/NYCJobMarketSkillsSalaryAnalysis?publish=yes)
 
 ## NYC Job Market — Key Findings
-
-This project analyzes NYC job postings (Jan–Mar 2026) to understand hiring patterns, salary dynamics, and the value of different skill sets.
-
 
 ### Market Overview
 
