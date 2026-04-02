@@ -105,7 +105,7 @@ Relational databases and query languages.
 
 ---
 
-# 🏢 Skill Group: Domain Knowledge
+## Skill Group: Domain Knowledge
 
 Knowledge of specific industries, sectors, or business areas.
 
@@ -123,7 +123,7 @@ Regulations, laws, and compliance frameworks.
 
 ---
 
-# 🏗️ Skill Group: Engineering & Construction
+## Skill Group: Engineering & Construction
 
 Technical skills and knowledge specific to engineering and infrastructure projects.
 
