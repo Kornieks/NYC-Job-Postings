@@ -1,6 +1,6 @@
 # NYC-Job-Postings
 ## [NYC Job Postings Dashboard](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarketOverview/NYCJobMarketOverview?publish=yes)
-## [Skills & Salary Analysis Dashboard ]([NYC-Job-Postings](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarket-SkillsSalaryAnalysis/NYCJobMarketSkillsSalaryAnalysis?publish=yes))
+## [Skills & Salary Analysis Dashboard ]([NYC-Job-Postings](https://public.tableau.com/app/profile/kseniia.kornienko/viz/NYCJobMarket-SkillsSalaryAnalysis/NYCJobMarketSkillsSalaryAnalysis?publish=yes)
 
 ## Dashboard Insights
 
