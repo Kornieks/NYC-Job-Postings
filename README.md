@@ -6,7 +6,6 @@
 
 This project analyzes NYC job postings (Jan–Mar 2026) to understand hiring patterns, salary dynamics, and the value of different skill sets.
 
----
 
 ### Market Overview
 
@@ -18,7 +17,7 @@ This project analyzes NYC job postings (Jan–Mar 2026) to understand hiring pat
 **Insight:**  
 The NYC public sector job market is stable, structured, and primarily focused on full-time employment.
 
----
+
 
 ### Demand vs. Compensation
 
@@ -32,7 +31,7 @@ The NYC public sector job market is stable, structured, and primarily focused on
 **Insight:**  
 Salary is driven more by **responsibility and specialization** than by demand alone.
 
----
+
 
 ### Skill Value Dynamics
 
@@ -44,8 +43,8 @@ Salary is driven more by **responsibility and specialization** than by demand al
 The most valuable profiles combine:
 - technical skills (e.g., SQL, data analysis)
 - with leadership or domain expertise
+  
 
----
 
 ### Career Level Patterns
 
@@ -56,7 +55,7 @@ The most valuable profiles combine:
 **Insight:**  
 Career progression in the NYC job market is clearly structured, with predictable salary growth.
 
----
+
 
 ### Hiring Patterns
 
@@ -69,7 +68,7 @@ Hiring is both cyclical and operational:
 - some roles are posted continuously
 - others are hired in bulk
 
----
+
 
 ### Role-Level Insights
 
@@ -82,7 +81,7 @@ There is a clear separation between:
 - **volume-driven roles (high demand, lower salary)**
 - **specialized roles (lower demand, higher salary)**
 
----
+
 
 ## Key Takeaways
 
