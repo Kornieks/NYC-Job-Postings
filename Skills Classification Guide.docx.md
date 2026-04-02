@@ -1,281 +1,174 @@
-# **NYC Job Market — Skills Classification Guide**
+# NYC Job Market — Skills Classification Guide
 
-This document describes the skill categories and groups used in the NYC Job Market Skills & Salary Analysis. Skills were extracted from job postings using AI and mapped to standardized categories using keyword matching.
+This document defines the standardized skill categories and groups used in the NYC Job Market Skills & Salary Analysis.
 
-# **Skill Group: Soft Skills**
+Skills were extracted from job postings using AI and mapped into structured categories to enable analysis in Python and Tableau.
 
-Skills related to interpersonal behavior, communication, and work style. These are the most commonly requested skills across all job postings.
+---
 
-## **Communication**
+##  Skill Group: Soft Skills
 
-Verbal and oral communication, public speaking, presentation skills, and the ability to explain complex topics clearly.
+Skills related to behavior, communication, and work style.
 
-Example skills: communication, verbal communication, oral communication, public speaking, presentation skills, listening
+- **Adaptability**  
+Ability to adjust to changing environments, priorities, and work conditions.
 
-## **Written Communication**
+- **Analytical Thinking**  
+Critical thinking, logical reasoning, and data-driven decision-making.
 
-Writing, report writing, technical writing, editing, and the ability to prepare clear written materials.
+- **Attention to Detail**  
+Accuracy, precision, and careful review of work outputs.
 
-Example skills: written communication, writing skills, report writing, technical writing, legal writing, editing
+- **Communication**  
+Verbal communication and the ability to clearly explain ideas.
 
-## **Interpersonal & Teamwork**
+- **Customer Service**  
+Providing support and maintaining positive relationships with clients and stakeholders.
 
-Ability to work collaboratively, build relationships, engage stakeholders, and function effectively within teams.
+- **Independence**  
+Ability to work autonomously with minimal supervision.
 
-Example skills: teamwork, collaboration, relationship building, stakeholder management, cross-functional collaboration
+- **Interpersonal & Teamwork**  
+Collaboration and relationship-building across teams.
 
-## **Organizational Skills**
+- **Leadership**  
+Ability to guide, mentor, and influence others.
 
-Ability to stay organized, manage information, and maintain structured work processes.
+- **Management**  
+Supervising teams, managing projects, and overseeing operations.
 
-Example skills: organizational skills, organization, highly organized
+- **Organizational Skills**  
+Structuring tasks, managing information, and maintaining organized workflows.
 
-## **Time & Task Management**
+- **Problem Solving**  
+Identifying issues and developing effective solutions.
 
-Managing deadlines, prioritizing tasks, multitasking, and coordinating multiple projects simultaneously.
+- **Professionalism**  
+Maintaining ethical standards, confidentiality, and professional behavior.
 
-Example skills: time management, prioritization, multitasking, deadline management, scheduling, project coordination
+- **Research**  
+Conducting qualitative and quantitative analysis.
 
-## **Attention to Detail**
+- **Self-Motivation**  
+Initiative, proactiveness, and self-driven work.
 
-Detail orientation, accuracy, and careful review of work products.
+- **Strategic Thinking**  
+Long-term planning and decision-making.
 
-Example skills: attention to detail, detail-oriented, accuracy
+- **Time & Task Management**  
+Prioritizing tasks, managing deadlines, and multitasking.
 
-## **Analytical Thinking**
+- **Work Ethic**  
+Reliability, accountability, and commitment to quality work.
 
-Critical thinking, sound judgment, decision-making, and logical reasoning.
+- **Written Communication**  
+Clear and effective written communication.
 
-Example skills: analytical skills, critical thinking, decision-making, logical thinking, good judgment
+---
 
-## **Problem Solving**
+##  Skill Group: Technical Skills
 
-Identifying problems, developing solutions, and resolving issues effectively.
+Tools, technologies, and technical capabilities used in daily work.
 
-Example skills: problem solving, solution oriented, analytical problem solving
+- **Administrative Data Work**  
+Basic data entry, record keeping, and general computer usage.
 
-## **Research**
+- **BI / Visualization**  
+Data visualization and reporting tools such as Tableau and Power BI.
 
-Research capabilities, qualitative and quantitative research methods.
+- **CAD**  
+Computer-aided design tools such as AutoCAD and Revit.
 
-Example skills: research, legal research, qualitative research, database research
+- **Cloud / Security / IT**  
+Cloud platforms, cybersecurity, and IT infrastructure.
 
-## **Leadership**
+- **Data Analysis**  
+Analyzing datasets using statistical or analytical techniques.
 
-Leadership skills and the ability to guide and develop others.
+- **Design / Creative Tools**  
+Graphic design, UI/UX tools, and creative software.
 
-Example skills: leadership, leadership skills, supervisory leadership, leadership development
+- **GIS**  
+Geospatial tools and spatial data analysis such as ArcGIS.
 
-## **Management**
+- **Microsoft Office**  
+Office tools including Excel, Word, Outlook, and Office 365.
 
-Supervisory experience, team management, program management, and budget management.
+- **Presentation / Productivity Tools**  
+Tools such as PowerPoint, Teams, Zoom, and SharePoint.
 
-Example skills: management, project management, supervisory experience, team management, budget management
+- **Programming**  
+Programming languages and development tools.
 
-## **Strategic Thinking**
+- **SQL**  
+Relational databases and query languages.
 
-Strategic planning, process improvement, policy development, and business development.
+---
 
-Example skills: strategic thinking, strategic planning, process improvement, program development, change management
+# 🏢 Skill Group: Domain Knowledge
 
-## **Adaptability**
+Knowledge of specific industries, sectors, or business areas.
 
-Flexibility, willingness to learn, ability to work under pressure and in fast-paced environments.
+- **Domain Knowledge**  
+General expertise in specific domains such as HR, social services, or real estate.
 
-Example skills: adaptability, flexibility, willingness to learn, ability to work under pressure
+- **Finance / Operations**  
+Budgeting, accounting, financial analysis, and operations management.
 
-## **Independence**
+- **Government / Public Sector**  
+Public administration, policies, and government systems.
 
-Ability to work independently with minimal supervision.
+- **Legal / Compliance**  
+Regulations, laws, and compliance frameworks.
 
-Example skills: independence, self-directed, ability to work independently
+---
 
-## **Self-Motivation**
+# 🏗️ Skill Group: Engineering & Construction
 
-Proactive approach, initiative, and self-management.
+Technical skills and knowledge specific to engineering and infrastructure projects.
 
-Example skills: self-motivation, self-starter, initiative, proactive approach
+- **Engineering**  
+Core engineering disciplines (civil, mechanical, electrical, etc.).
 
-## **Work Ethic**
+- **Engineering Standards**  
+Industry codes, safety regulations, and compliance standards.
 
-Accountability, reliability, integrity, and strong ethics.
+- **Environmental**  
+Environmental science, sustainability practices, and public health.
 
-Example skills: work ethic, accountability, reliability, integrity
+- **Infrastructure & Construction**  
+Construction management, infrastructure, and urban planning.
 
-## **Professionalism**
+- **Project Controls**  
+Project scheduling, tracking, and cost control.
 
-Professional demeanor, confidentiality, diplomacy, conflict resolution, and negotiation.
+- **Sustainability**  
+Sustainable design principles and environmental certifications.
 
-Example skills: professionalism, discretion, confidentiality, diplomacy, conflict resolution
+---
 
-## **Customer Service**
+## Skill Group: Other
 
-Client services, community outreach, and community relations.
+Additional qualifications and credentials.
 
-Example skills: customer service, client services, community outreach, community relations
+- **Driver's License**  
+Requirement for a valid driver's license.
 
-# **Skill Group: Technical Skills**
+- **Education**  
+Formal education requirements such as degrees.
 
-Software tools, programming languages, data analysis, and technical platforms used in professional environments.
+- **Field Licences**  
+Professional certifications and licenses (e.g., PMP, PE, LEED).
 
-## **Microsoft Office**
+- **Languages**  
+Knowledge of foreign languages.
 
-Microsoft Office suite including Word, Excel, Outlook, and Office 365\.
+---
 
-Example skills: microsoft office, excel, microsoft word, office 365, ms office suite
+## Notes
 
-## **Presentation / Productivity Tools**
+- Categories are standardized for consistency across job postings  
+- Skills are mapped using keyword-based classification  
+- Structure supports analysis in Tableau, SQL, and Python  
+- Engineering & Construction is separated from Domain Knowledge to preserve analytical clarity  
 
-PowerPoint, Teams, SharePoint, Visio, Zoom, Smartsheet, and other productivity tools.
-
-Example skills: powerpoint, microsoft teams, sharepoint, visio, smartsheet, zoom
-
-## **Design / Creative Tools**
-
-Adobe Creative Suite, graphic design tools, UI/UX design, and video editing software.
-
-Example skills: adobe creative suite, photoshop, illustrator, graphic design, ui/ux design
-
-## **SQL**
-
-SQL and relational database tools including SQL Server, MySQL, PostgreSQL, Oracle SQL.
-
-Example skills: sql, sql server, mysql, postgresql, oracle sql, sqlite
-
-## **Programming**
-
-Programming languages and software development tools including Python, R, Java, JavaScript, and ML frameworks.
-
-Example skills: python, r, java, javascript, machine learning, software development, git
-
-## **Data Analysis**
-
-Data analytics, statistical analysis, data management, and related tools like Pandas.
-
-Example skills: data analysis, data analytics, statistical analysis, data management, pandas, pivot tables
-
-## **BI / Visualization**
-
-Business intelligence and data visualization tools including Tableau and Power BI.
-
-Example skills: tableau, power bi, data visualization, data storytelling
-
-## **Administrative Data Work**
-
-Data entry, general computer skills, and basic administrative software usage.
-
-Example skills: data entry, computer skills, computer literacy
-
-## **Cloud / Security / IT**
-
-Cloud platforms, cybersecurity, IT infrastructure, and network management.
-
-Example skills: aws, google cloud, cybersecurity, information security, network, windows, servicenow
-
-# **Skill Group: Domain Knowledge**
-
-Specialized knowledge of specific industries, sectors, and professional fields.
-
-## **Government / Public Sector**
-
-Knowledge of NYC government operations, procurement rules, public administration, and city agencies.
-
-Example skills: government operations, public administration, nyc procurement rules, city planning, public policy
-
-## **Legal / Compliance**
-
-Legal knowledge, compliance, regulatory frameworks, labor laws, and court procedures.
-
-Example skills: law, legal knowledge, compliance, regulatory compliance, litigation, osha, labor laws
-
-## **Finance / Operations**
-
-Accounting, budgeting, financial analysis, payroll, contracts, and operations management.
-
-Example skills: accounting, budgeting, financial analysis, payroll, contracts, operations management
-
-## **Domain Knowledge**
-
-Specialized sector knowledge including human resources, social services, mental health, criminal justice, and real estate.
-
-Example skills: human resources, social services, mental health, criminal justice, affordable housing, workforce development
-
-# **Skill Group: Engineering & Construction**
-
-Technical skills related to engineering disciplines, construction, and infrastructure projects.
-
-## **Engineering**
-
-Core engineering disciplines including civil, mechanical, electrical, environmental, and chemical engineering.
-
-Example skills: civil engineering, mechanical engineering, electrical engineering, environmental engineering, structural engineering
-
-## **Infrastructure & Construction**
-
-Construction management, capital projects, bridge inspections, transportation planning, and urban design.
-
-Example skills: construction management, capital projects, bridge inspections, transportation planning, urban design, architecture
-
-## **Engineering Standards**
-
-Industry standards and codes including AASHTO, NYC Building Code, OSHA, LEED, and NYC zoning regulations.
-
-Example skills: aashto, nyc building code, osha standards, leed, zoning resolution
-
-## **CAD**
-
-Computer-aided design tools including AutoCAD, Revit, Civil 3D, and Bluebeam.
-
-Example skills: autocad, revit, civil 3d, bluebeam, cadd
-
-## **GIS**
-
-Geographic information systems including ArcGIS, geospatial analysis, map reading, and land surveying.
-
-Example skills: gis, arcgis, geospatial analysis, land surveying, map reading
-
-## **Project Controls**
-
-Project scheduling and controls using tools like Primavera P6.
-
-Example skills: primavera p6, project controls, oracle primavera p6
-
-## **Environmental**
-
-Environmental science, ecology, public health, green infrastructure, and renewable energy.
-
-Example skills: environmental science, ecology, public health, green infrastructure, renewable energy
-
-## **Sustainability**
-
-Sustainability credentials and environmental professional certifications.
-
-Example skills: envision sustainability professional, leed requirements
-
-# **Skill Group: Other**
-
-Additional qualifications and credentials that complement professional profiles.
-
-## Education
-
-Academic degree requirements including bachelor's, master's, and advanced degrees.
-
-Example skills: bachelor's degree, master's degree, advanced degree, graduate degree
-
-## **Field Licences**
-
-Professional certifications and field licences such as PMP, LEED, PE license, and CPR/AED.
-
-Example skills: pmp, leed, pe license, cpr/aed, notary public
-
-## **Driver's License**
-
-Valid driver's license requirements, including NY State driver's license.
-
-Example skills: valid driver's license, nys driver's license
-
-## **Languages**
-
-Foreign language proficiency including Spanish, French, Russian, and other languages.
-
-Example skills: spanish, french, bilingual, multilingual, foreign language skills
