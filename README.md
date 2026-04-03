@@ -12,7 +12,7 @@ More information about the dataset is available through this [link](https://gith
 ### Market Overview
 
 - The dataset includes **1,399 unique positions** and **2,962 total openings** across **54 NYC agencies**
-- The job market is heavily **full-time and annual-salary driven (99.82%)**
+- The job market is heavily **full-time (99.82%) and annual-salary driven **
 - Median annual salary range: **$68K – $94K**
 - Hourly roles are concentrated in **lower-paid, high-volume positions**
 
@@ -20,11 +20,10 @@ More information about the dataset is available through this [link](https://gith
 The NYC public sector job market is stable, structured, and primarily focused on full-time employment.
 
 
-
 ### Demand vs. Compensation
 
 - Most skills fall within a **narrow salary band ($70K–$90K)**
-- High-demand roles do not necessarily offer the highest salaries
+- High-demand skills and roles do not necessarily offer the highest salaries
 - Top salaries are associated with:
   - **Management and leadership**
   - **Strategic roles**
@@ -34,29 +33,25 @@ The NYC public sector job market is stable, structured, and primarily focused on
 Salary is driven more by **responsibility and specialization** than by demand alone.
 
 
-
 ### Skill Value Dynamics
 
-- **Soft skills** show the highest average salary across groups  
-- **Technical skills** provide stable, mid-to-high salary outcomes  
-- **Domain and regulatory knowledge** increases earning potential when combined with other skills  
+- **Domain and other knowledge** show the highest average salary across groups 
+- **Soft skills** are expected in every 9 out of 10 positions
+- **Technical skills** are wanted in two thirds of positions 
 
 **Insight:**  
 The most valuable profiles combine:
-- technical skills (e.g., SQL, data analysis)
-- with leadership or domain expertise
-  
+- domain expertise with leadership
 
 
 ### Career Level Patterns
 
-- Most roles target **experienced (non-managerial) candidates**
+- Most roles, offering annual salary, target **experienced (non-managerial) candidates**
 - Entry-level and student roles are mostly **hourly and lower-paid**
 - Salary increases consistently with seniority
 
 **Insight:**  
 Career progression in the NYC job market is clearly structured, with predictable salary growth.
-
 
 
 ### Hiring Patterns
@@ -75,7 +70,7 @@ Hiring is both cyclical and operational:
 ### Role-Level Insights
 
 - High-demand roles: **Social Workers, Administrative Support**
-- High-paying roles: **IT Specialists, Managers, Directors**
+- High-paying roles: **IT and Science Specialists, Managers, Directors**
 - Hourly roles are dominated by **internships and entry-level positions**
 
 **Insight:**  
@@ -84,11 +79,10 @@ There is a clear separation between:
 - **specialized roles (lower demand, higher salary)**
 
 
-
 ## Key Takeaways
 
 - The NYC job market rewards **seniority, specialization, and responsibility**
-- **Soft skills become high-value at senior levels**
+- **Soft skills are a must at every level and position**
 - **Technical skills are necessary but not sufficient** for top salaries
 - The best career strategy is to combine:
   - technical expertise
