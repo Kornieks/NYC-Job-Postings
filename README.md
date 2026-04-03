@@ -22,7 +22,7 @@ The NYC public sector job market is stable, structured, and primarily focused on
 
 ### Demand vs. Compensation
 
-- Most skills fall within a **narrow salary band ($70K–$90K)**
+- 90% of skills categories fall within a ** salary band ($62K–$97K)**
 - High-demand skills and roles do not necessarily offer the highest salaries
 - Top salaries are associated with:
   - **Management and leadership**
